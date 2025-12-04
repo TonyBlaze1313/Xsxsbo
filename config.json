@@ -1,0 +1,21 @@
+{
+  "referral_code": "NPH90834",
+  "base_url": "https://www.sosovalue.com",
+  "base_gmail": "",
+  "max_accounts": 50,
+  "daily_batch_size": 5,
+  "delay_between_accounts": 10,
+  "max_retries": 3,
+  "use_proxies": false,
+  "termux_mode": true,
+  "log_level": "INFO",
+  "task_settings": {
+    "checkin_xp": 10,
+    "video_xp": 5,
+    "article_xp": 3,
+    "share_xp": 5,
+    "like_xp": 1,
+    "follow_xp": 3,
+    "profile_xp": 4
+  }
+}
